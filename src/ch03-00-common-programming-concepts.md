@@ -1,23 +1,11 @@
-# Common Programming Concepts
+# Các Khái niệm Lập trình Phổ biến
 
-This chapter covers concepts that appear in almost every programming language
-and how they work in Rust. Many programming languages have much in common at
-their core. None of the concepts presented in this chapter are unique to Rust,
-but we’ll discuss them in the context of Rust and explain the conventions
-around using them.
+Chương này đề cập đến các khái niệm xuất hiện trong hầu hết mọi ngôn ngữ lập trình và cách chúng hoạt động trong Rust. Nhiều ngôn ngữ lập trình có nhiều điểm chung ở cốt lõi của chúng. Không có khái niệm nào được trình bày trong chương này là duy nhất đối với Rust, nhưng chúng ta sẽ thảo luận chúng trong bối cảnh của Rust và giải thích các quy ước xung quanh việc sử dụng chúng.
 
-Specifically, you’ll learn about variables, basic types, functions, comments,
-and control flow. These foundations will be in every Rust program, and learning
-them early will give you a strong core to start from.
+Cụ thể, bạn sẽ học về biến, kiểu dữ liệu cơ bản, hàm, comment, và luồng điều khiển. Những nền tảng này sẽ có trong mọi chương trình Rust, và học chúng sớm sẽ cho bạn một cốt lõi mạnh mẽ để bắt đầu.
 
 > #### Keywords
 >
-> The Rust language has a set of _keywords_ that are reserved for use by the
-> language only, much as in other languages. Keep in mind that you cannot use
-> these words as names of variables or functions. Most of the keywords have
-> special meanings, and you’ll be using them to do various tasks in your Rust
-> programs; a few have no current functionality associated with them but have
-> been reserved for functionality that might be added to Rust in the future. You
-> can find the list of the keywords in [Appendix A][appendix_a]<!-- ignore -->.
+> Ngôn ngữ Rust có một tập hợp các _keywords_ được dành riêng chỉ để sử dụng bởi ngôn ngữ, giống như trong các ngôn ngữ khác. Hãy nhớ rằng bạn không thể sử dụng những từ này làm tên biến hoặc hàm. Hầu hết các keywords có ý nghĩa đặc biệt, và bạn sẽ sử dụng chúng để thực hiện các tác vụ khác nhau trong các chương trình Rust của mình; một vài keyword không có chức năng hiện tại liên quan đến chúng nhưng đã được dành riêng cho chức năng có thể được thêm vào Rust trong tương lai. Bạn có thể tìm thấy danh sách các keywords trong [Phụ lục A][appendix_a]<!-- ignore -->.
 
 [appendix_a]: appendix-01-keywords.md
