@@ -236,3 +236,7 @@ joining us on this tour of Rust. You’re now ready to implement your own Rust
 projects and help with other people’s projects. Keep in mind that there is a
 welcoming community of other Rustaceans who would love to help you with any
 challenges you encounter on your Rust journey.
+
+<div style="text-align: right">
+  <em>Người dịch Arriety</em>
+</div>

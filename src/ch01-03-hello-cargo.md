@@ -165,3 +165,8 @@ Bạn đã có một khởi đầu tuyệt vời trong hành trình Rust của m
 [toml]: https://toml.io
 [appendix-e]: appendix-05-editions.html
 [cargo]: https://doc.rust-lang.org/cargo/
+
+
+<div style="text-align: right">
+  <em>Người dịch Arriety</em>
+</div>

@@ -625,3 +625,8 @@ Dự án này là một cách thực hành để giới thiệu cho bạn nhiề
 [shadowing]: ch03-01-variables-and-mutability.html#shadowing
 [parse]: ../std/primitive.str.html#method.parse
 [integers]: ch03-02-data-types.html#integer-types
+
+
+<div style="text-align: right">
+  <em>Người dịch Arriety</em>
+</div>

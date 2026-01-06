@@ -183,3 +183,7 @@ Các tệp nguồn từ đó cuốn sách này được tạo có thể được
 [GitHub][book].
 
 [book]: https://github.com/rust-lang/book/tree/main/src
+
+<div style="text-align: right">
+  <em>Người dịch Arriety</em>
+</div>

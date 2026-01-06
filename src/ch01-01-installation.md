@@ -170,3 +170,8 @@ trong phần còn lại của cuốn sách để sử dụng các phiên bản �
 [msvc]: https://rust-lang.github.io/rustup/installation/windows-msvc.html
 [community]: https://www.rust-lang.org/community
 [tools]: https://www.rust-lang.org/tools
+
+
+<div style="text-align: right">
+  <em>Người dịch Arriety</em>
+</div>

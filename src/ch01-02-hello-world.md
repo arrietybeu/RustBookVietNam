@@ -199,3 +199,8 @@ các chương trình Rust thực tế.
 [troubleshooting]: ch01-01-installation.html#troubleshooting
 [devtools]: appendix-04-useful-development-tools.html
 [ch20-macros]: ch20-05-macros.html
+
+
+<div style="text-align: right">
+  <em>Người dịch Arriety</em>
+</div>
