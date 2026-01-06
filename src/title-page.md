@@ -1,23 +1,18 @@
 # The Rust Programming Language
 
-_by Steve Klabnik, Carol Nichols, and Chris Krycho, with contributions from the
-Rust Community_
+_Viết bởi Steve Klabnik, Carol Nichols, và Chris Krycho, với sự đóng góp từ Cộng đồng Rust_
+_Người dịch Arriety_
 
-This version of the text assumes you’re using Rust 1.90.0 (released 2025-09-18)
-or later with `edition = "2024"` in the *Cargo.toml* file of all projects to
-configure them to use Rust 2024 Edition idioms. See the [“Installation” section
-of Chapter 1][install]<!-- ignore --> for instructions on installing or
-updating Rust, and see [Appendix E][appendix-e]<!-- ignore --> for information
-on editions.
+Phiên bản này của văn bản giả định bạn đang sử dụng Rust 1.90.0 (phát hành 2025-09-18) hoặc mới hơn với `edition = "2024"` trong file *Cargo.toml* của tất cả các dự án để cấu hình chúng sử dụng các idiom của Rust 2024 Edition. Xem [phần "Cài đặt" của Chương 1][install]<!-- ignore --> để biết hướng dẫn cài đặt hoặc cập nhật Rust, và xem [Phụ lục E][appendix-e]<!-- ignore --> để biết thông tin về editions.
 
-The HTML format is available online at
+Định dạng HTML có sẵn trực tuyến tại
 [https://doc.rust-lang.org/stable/book/](https://doc.rust-lang.org/stable/book/)
-and offline with installations of Rust made with `rustup`; run `rustup doc
---book` to open.
+và ngoại tuyến với các bản cài đặt Rust được tạo bằng `rustup`; chạy `rustup doc
+--book` để mở.
 
-Several community [translations] are also available.
+Một số [bản dịch][translations] của cộng đồng cũng có sẵn.
 
-This text is available in [paperback and ebook format from No Starch
+Văn bản này có sẵn ở [định dạng bìa mềm và sách điện tử từ No Starch
 Press][nsprust].
 
 [install]: ch01-01-installation.html
@@ -25,6 +20,4 @@ Press][nsprust].
 [nsprust]: https://nostarch.com/rust-programming-language-3rd-edition
 [translations]: appendix-06-translation.html
 
-> **🚨 Want a more interactive learning experience? Try out a different version
-> of the Rust Book, featuring: quizzes, highlighting, visualizations, and
-> more**: <https://rust-book.cs.brown.edu>
+> **🚨 Muốn trải nghiệm học tập tương tác hơn? Hãy thử một phiên bản khác của Rust Book, có các tính năng: câu hỏi, tô sáng, hình ảnh hóa, và nhiều hơn nữa**: <https://rust-book.cs.brown.edu>
